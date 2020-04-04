@@ -1,0 +1,14 @@
+{
+  "name": "learn_nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "duc tran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
